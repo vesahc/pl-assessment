@@ -18,11 +18,11 @@ Run on local server:
 
 ## To deploy on Fleek:
 <p>
-Docker image: node:14
+Docker image: <code>node:14</code>
 <br>
-Publish directory: docs/.vitepress/dist
+Publish directory: <code>docs/.vitepress/dist</code>
 <br>
-Build command: yarn && yarn docs:dev
+Build command: <code>yarn && yarn docs:build</code>
 <br>
 All other settings are default or blank. 
 </p>
