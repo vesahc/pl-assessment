@@ -1,5 +1,12 @@
 # Protocol Labs Take Home Assessment
 
+## Deliverables
+
+Github respository: https://github.com/vesahc/pl-assessment<br>
+Live site URL: https://snowy-bar-5232.on.fleek.co<br>
+IPFS CID: Qmf2riezFsmuG2REYyMWgH2FmwuvHcR1ejehUD4nrF3vaT <br>
+
+
 ## To build and deploy locally: 
 
 <p>
